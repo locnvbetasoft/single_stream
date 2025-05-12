@@ -3,49 +3,63 @@
 The following are example m3u and single stream for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
 **30A Golf Kingdom**
-  ``` https://30a-tv.com/feeds/vidaa/golf.m3u8   ```
+  ``` 
+  https://30a-tv.com/feeds/vidaa/golf.m3u8
+  ```
 
 **:Šport (1080p)**
-  ``` http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8   ```
+  ```
+  http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8 
+  ```
 
 **A Spor**
-  ``` https://trkvz-live.daioncdn.net/aspor/aspor.m3u8   ```
+  ```
+  https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+  ```
 
 **ACCDN (1080p)**
-  ``` https://raycom-accdn-firetv.amagi.tv/playlist.m3u8   ```
+  ```
+  https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+  ```
 
 **ACCN (720p)**
-  ``` http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8   ```
+  ```
+  http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+  ```
 
 **ACI Sport TV (1080p)**
-  ``` https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8   ```
+  ```
+  https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+  ```
 
 **ACL Cornhole TV (1080p)**
-  ``` https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8   ```
+  ```
+  https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
+  ```
 
-**Action Sports (Austria)**
-  ``` http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8   ```?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5241-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f4b1024-61ca-4918-b727-2ee2d9fe6398
 
-**Action Sports (Germany)**
-  ``` http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8   ```?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0870-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a89100a8-8115-4b28-9869-072164526f31
+
 
 **ADO TV (720p)**
-  ``` https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8   ```
+  ```
+  https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+  ```
 
-**Adventure Sports TV**
-  ``` http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9550df13a9b00078677a7/master.m3u8   ```?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f511-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bd268c5-ffe8-41b9-87eb-00b21764a8c4
 
 **Afizzionados (576p)**
-  ``` https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8   ```
+  ``` 
+  https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+  ```
 
 **AfroSport Nigeria**
-  ``` https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8   ```
-
-**Alfa Sport (1080p) [Not 24/7]**
-  ``` https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8   ```?token=8TXWzhY3h6jrzqEqx
+  ```
+  https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+ ```
 
 **Alkass Five (1080p)**
-  ``` https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8   ```
+  ``` 
+  https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+ ```
 
 **Alkass Four (1080p)**
   ``` https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8   ```
